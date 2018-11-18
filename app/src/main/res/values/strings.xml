@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="fireButton">OK</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="alertMessage">Button %1$s was tapped</string>
+    <string name="redButton">red</string>
+    <string name="greenButton">green</string>
+    <string name="blueButton">blue</string>
+
+</resources>
+
